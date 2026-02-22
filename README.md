@@ -12,4 +12,4 @@ Instead of just reading theory, I use game development as my ultimate laboratory
 * Python | SQL | Postman | Quality Assurance
 
 ### 📫 Let's connect:
-* **LinkedIn:** [Pega aquí tu enlace de LinkedIn]
+* **LinkedIn:** (https://www.linkedin.com/in/keiix3/)
