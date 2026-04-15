@@ -37,4 +37,4 @@ product thinking than any tutorial could.
 ---
 
 ## 📫 Let's connect
-LinkedIn: https://www.linkedin.com/in/leonelivanbalmaceda/
+LinkedIn: https://www.linkedin.com/in/keiix3/
