@@ -1,40 +1,36 @@
-# Hi! I'm Leonel (aka Keiix3) 👋
+# Hi, I'm Leonel 👋
 
-I'm building a hybrid profile in **QA Testing** and **Data Analysis**, 
-with a genuine interest in how software works, how it breaks, 
-and what the data behind it reveals.
+I'm a **Data Analyst in training**, focused on turning data into actionable insights.
 
-I came to tech through curiosity more than a straight path, 
-and I think that gives me a different perspective: 
-I care about the *why* behind systems, not just the *how*.
+I work with tools like **SQL, Python (pandas), and Excel**, and I'm currently developing projects in **data analysis and business intelligence**.
 
 ---
 
-## 🎮 Operación Capibara — My Learning Lab
+## 📊 What I'm working on
 
-Instead of passive theory, I learn by building things.
-*Operación Capibara* is a top-down shooter I've been designing 
-and directing as a personal project, developed with AI assistance 
-in Python/Pygame across dozens of iterative sessions.
-
-My role wasn't writing every line — it was making decisions:
-- Designing game mechanics and character systems from scratch
-- Defining balance, feedback loops and player experience
-- Acting as product owner and QA: testing, breaking things 
-  and deciding what to fix and why
-- Managing scope and iterating based on what actually worked
-
-It taught me more about software behavior, edge cases and 
-product thinking than any tutorial could.
+* Data analysis with **Python (pandas)**
+* SQL queries for data extraction and transformation
+* Building dashboards in **Power BI**
+* Learning data cleaning, EDA and data visualization
 
 ---
 
-## 🛠️ Currently working with
-- Python · SQL · Postman
-- QA methodologies (test cases, bug reporting)
-- Git & GitHub
+## 🚀 Projects
+
+*(Coming soon — currently building real-world data projects)*
+
+---
+
+## 🛠 Tech Stack
+
+* **MySQL**
+* **Python (pandas)**
+* **Excel**
+* **Power BI**
+* **Git & GitHub**
 
 ---
 
 ## 📫 Let's connect
-LinkedIn: https://www.linkedin.com/in/keiix3/
+
+* LinkedIn: https://www.linkedin.com/in/keiix3/
